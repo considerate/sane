@@ -20,3 +20,5 @@ Supported data types are
 - 4: int64 (signed)
 - 5: uint64 (unsigned)
 - 6-255: reserved
+
+All supported data types are stored in little-endian byte order.
